@@ -42,4 +42,4 @@ List of techniques used for text pre-processing:
 
 ## Usage
 
-Run the project on a localhost server by typing `jupyter notebook`.
+Run the notebook on a localhost server using `jupyter notebook`.
