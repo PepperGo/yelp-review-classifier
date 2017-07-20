@@ -26,12 +26,12 @@ The dataset was taken from the [Kaggle Yelp Business Rating Prediction competiti
 | ------------- | ------------- |
 | business_id  | ID of the business being reviewed  |
 | date  | The date on which the review was posted  |
-| review_id  | ID of the review  |
+| review_id  | Review ID  |
 | stars  | Rating given for the busines  |
 | text  | Review text  |
 | type  | Type of text (all are "review" in this dataset)  |
-| user_id  | ID of the user  |
-| cool/useful/funny  | Comments given by other users on the review  |
+| user_id  | User's ID  |
+| cool / useful / funny  | Comments given by other users on the review  |
 
 ## Text pre-processing
 
