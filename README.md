@@ -19,7 +19,7 @@ Install dependencies using [pip](https://pip.pypa.io/en/stable/).
 
 ## Dataset
 
-The dataset was taken from the [Kaggle Yelp Business Rating Prediction competition](https://www.kaggle.com/c/yelp-recsys-2013). The particular subset I used (input/yelp.csv) contains 10,000 observations (reviews) and 10 attributes.
+The dataset was taken from the [Kaggle Yelp Business Rating Prediction competition](https://www.kaggle.com/c/yelp-recsys-2013). The particular subset I used (/input/yelp.csv) contains 10,000 observations (reviews) and 10 attributes.
 
 
 | Column  | Definition |
