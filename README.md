@@ -27,7 +27,7 @@ The dataset was taken from the [Kaggle Yelp Business Rating Prediction competiti
 | business_id  | ID of the business being reviewed  |
 | date  | The date on which the review was posted  |
 | review_id  | Review ID  |
-| stars  | Rating given for the busines  |
+| stars  | Rating given for the business  |
 | text  | Review text  |
 | type  | Type of text (all are "review" in this dataset)  |
 | user_id  | User's ID  |
